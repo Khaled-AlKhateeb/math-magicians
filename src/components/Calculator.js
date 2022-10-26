@@ -32,7 +32,7 @@ class Calculator extends React.Component {
         </div>
         <div className="keys-container">
           <button onClick={this.getValue} type="button" className="calc-keys">AC</button>
-          <button onClick={this.getValue} type="button" className="calc-keys">&plusmn;</button>
+          <button onClick={this.getValue} type="button" className="calc-keys">+/-</button>
           <button onClick={this.getValue} type="button" className="calc-keys">%</button>
           <button onClick={this.getValue} type="button" className="calc-keys arithmetic">&#247;</button>
           <button onClick={this.getValue} type="button" className="calc-keys">7</button>
