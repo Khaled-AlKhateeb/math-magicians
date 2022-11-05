@@ -11,7 +11,7 @@ a React app calculator
 
 ## Live Demo
 
-N/A
+to visit live Demo click [here](https://6366bb246084a02d992a00cf--incandescent-centaur-af933a.netlify.app/quote).
 
 ### Prerequisites 
   - Local Machine, Git, Text Editor (VS Code preferably)
