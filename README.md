@@ -11,7 +11,7 @@ a React app calculator
 
 ## Live Demo
 
-to visit live Demo click [here](https://6366bb246084a02d992a00cf--incandescent-centaur-af933a.netlify.app/quote).
+to visit live Demo click [here](https://math-magicians-teal.vercel.app/calculator).
 
 ### Prerequisites 
   - Local Machine, Git, Text Editor (VS Code preferably)
@@ -29,11 +29,11 @@ to visit live Demo click [here](https://6366bb246084a02d992a00cf--incandescent-c
 
 ## Authors
 
-👤 *Khaled AlKhateeb*
+👤 **Khaled Al-Khateeb**
 
 - GitHub: [@Khaled-AlKhateeb](https://github.com/Khaled-AlKhateeb)
-- Twitter: [@](https://twitter.com/)
-- LinkedIn: [](https://linkedin.com/in/)
+- Twitter: [@KhaledA93751489](https://twitter.com/KhaledA93751489)
+- LinkedIn: [khaled-al-khateeb](https://www.linkedin.com/in/khaled-al-khateeb-3a1013247/)
 
 ## 🤝 Contributing
 
